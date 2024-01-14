@@ -2,3 +2,4 @@ This is new file
 I am practising git.
 Ekal Pekal ping ping
 Gems magic balls
+I love eating them
